@@ -1,1 +1,20 @@
 ## Good Design
+- Good designs are hard because we don't have a human prediction method
+- Impossible to come up with all possible scenerio 
+- Another reason is that the UI are not standardlize - the user has to re-learn a new UI on a new platform
+- Poor design can results in injuries, bad reviews, more product training, decrease in sales  
+- Waterfall and user-centered design methods (be able to compare and contrast)
+- Waterfall cycle : Requirements analysis <-> design <-> code <-> test <-> matainence 
+- User-centered : see L01-p18
+- Functional, usability, and user experience requirements—be able to formulate these correctly from user’s perspective; know the differences between them
+- Functionality requirements : what should the user accomplihed from your software. 
+-- ex: user must be able to set up an appointment 
+- Usability requirements : Establish user performance goal for your software
+-- # or errors, task completion time , safety metrics, time to learn, how long remembered ocne learned 
+-- ex: user must be able to set up an appointment in 20 sec
+- User Experience requirements : Establish a user subjective experience goal
+-- subjective experience metric : easy to use, fun, enjoyable, entertaining, rewarding, helpful, motivating, confident 
+-- example: on the scale from 1-5 user must rate the system 4
+- How to produce a good design?
+-- have a growth mindset instead of fixed 
+-- get better by doing 
