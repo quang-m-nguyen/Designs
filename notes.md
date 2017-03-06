@@ -18,3 +18,13 @@
 - How to produce a good design?
 -- have a growth mindset instead of fixed 
 -- get better by doing 
+
+## L02 - Norman Concepts
+- Design concepts are generalize abstractions - these are derived from theory-base knowledge, experience and common sense 
+- affordance - An affordance is the possibility of an action on an object or environment.  Afforance is the relationship the agent has with the object and not the object properties 
+- Signifiers - where the action should take place (labels, markers, sounds or other perceivable indicator)
+- Mapping - the relationship between a control and its effect in the real world 
+- Feedback - is about sending back information about what action has been done and what has been accomplished, allowing the person to continue with the activity. Various kinds of feedback are available for interaction design-audio, tactile, verbal, and combinations of these.
+
+# L02 - Applying norman concepts 
+- Conceptual model - is the mental model a person forms that relates their interaction with an interface to the underlying thing the interface controls. It is the explanatory framework a person has to explain how a control operates something.
