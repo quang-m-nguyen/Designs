@@ -28,3 +28,12 @@
 - Conceptual model - is the mental model a person forms that relates their interaction with an interface to the underlying thing the interface controls. It is the explanatory framework a person has to explain how a control operates something.
 - Visibility – The more visible functions are, the more likely users will be able to know what to do next. Incontrast, when functions are "out of sight," it makes them more difficult to find and know how to use.
 - Consistency – This refers to designing interfaces to have similar operations and use similar elements for achieving similar tasks.
+
+## L03 
+- Constraints : Physical, Cultural, Semantics, Logical 
+- Physical : There is only one possible solution 
+- Cultural : Imagine facing the wall in an elevator 
+- Semantics: What is the meaning of the situtation.  When you sit in the car, you would face forward for backward 
+- Logical : When all peices fit - the only one left should go to the only remaining spot 
+- Cultural norms: 
+- Transfer effects: Prior experience influences what functionality we expect for an object and how we operate an object
