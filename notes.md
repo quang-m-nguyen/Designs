@@ -25,6 +25,6 @@
 - Signifiers - where the action should take place (labels, markers, sounds or other perceivable indicator)
 - Mapping - the relationship between a control and its effect in the real world 
 - Feedback - is about sending back information about what action has been done and what has been accomplished, allowing the person to continue with the activity. Various kinds of feedback are available for interaction design-audio, tactile, verbal, and combinations of these.
-
-# L02 - Applying norman concepts 
 - Conceptual model - is the mental model a person forms that relates their interaction with an interface to the underlying thing the interface controls. It is the explanatory framework a person has to explain how a control operates something.
+- Visibility – The more visible functions are, the more likely users will be able to know what to do next. Incontrast, when functions are "out of sight," it makes them more difficult to find and know how to use.
+- Consistency – This refers to designing interfaces to have similar operations and use similar elements for achieving similar tasks.
