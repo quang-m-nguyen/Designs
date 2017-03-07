@@ -37,3 +37,16 @@
 - Logical : When all peices fit - the only one left should go to the only remaining spot 
 - Cultural norms: 
 - Transfer effects: Prior experience influences what functionality we expect for an object and how we operate an object
+
+## Chapter 3
+- Activity-centered control - Design around the activities and not the device itself.  i.e. an auditurium would have a theather settings, presentation settings ect..  a device shouldnt focus on its acitvity i.e. do not make the user go to 3 different pages to change sounds, color, volume
+- Forcing function - a form of physical constraint (a car require car key to start)
+- Interlock - force operation in sequence i.e. microwave i.e going from park to drive without pressing gas pedal
+- Lockins - keeps an operation active.  i.e. quitting without saving 
+- Lockouts - prevents someone from causing an action until the desired operations has been done.  i.e. lockout basement door. 
+- The interpretation of a perceived affordance is a cultural convention.
+- CONVENTIONS ARE CULTURAL CONSTRAINTS - i.e. group calculator 
+- People doesnt like change in convention - thats why US still using US scale instead of metrics 
+- Sounds as signifier.  Some system require sounds as knowledge feedback so user can proceed
+- Skeuomorphic is the technical term for incorporating old, familiar ideas into new technologies
+- 
